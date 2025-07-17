@@ -25,10 +25,11 @@ https://docs.google.com/spreadsheets/d/1aRxcpFZoZdXHyTOnQmVsUmhl7eolGyTiaV_g57Vk
 
 ## 原稿の提出方法
 
-* 前提
+### 前提
+  
 Githubアカウントが必要になります。登録をお願いします。
 
-* 原稿の作り方(マークダウンで執筆)
+### 原稿の作り方(マークダウンで執筆)
 
 1. 当プロジェクト(2025jawsugbgnrbook)をフォーク（自分のアカウントにコピー）。
 
@@ -60,7 +61,8 @@ git push origin feature/my-change
 GitHubの自身のリポジトリページを開き、**「Compare & pull request」または「Pull requests」**から新規プルリクエストを作成します。
 タイトル・内容を記載し、送信。
 
-* 原稿の作り方(psdで執筆)
+### 原稿の作り方(psdで執筆)
+
 高野に直接原稿を送付ください。
 
 ## 原稿の生成確認方法
