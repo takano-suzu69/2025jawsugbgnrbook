@@ -1,12 +1,12 @@
 # 2025 jaws-ug 紹介本 (初心者支部有志)
 
-この企画については以下ご参照ください。
+この企画については以下ご参照ください。<br>
 https://sites.google.com/view/2025jawsbeginner/%E3%83%9B%E3%83%BC%E3%83%A0
 
 ## 参加方法 (運営)
 
-直接プルリクを上げて頂いてOKです。
-ただし、休眠中の支部は掲載予定はありませんのでご了承ください。
+直接プルリクを上げて頂いてOKです。<br>
+ただし、休眠中の支部は掲載予定はありませんのでご了承ください。<br>
 リブート予定の方はご相談ください。
 
 ## 参加方法 (非運営)
@@ -20,7 +20,7 @@ https://docs.google.com/spreadsheets/d/1aRxcpFZoZdXHyTOnQmVsUmhl7eolGyTiaV_g57Vk
 
 ## 原稿の書き方
 
-当リポジトリをクローン、またはファイルをDLし
+当リポジトリをクローン、またはファイルをDLし<br>
 \src ディレクトリ内の chap-markdownsample.md、chap-naosan-06jawsnasa.md を参考に原稿執筆お願いします。
 
 ## 原稿の提出方法
@@ -67,7 +67,7 @@ GitHubの自身のリポジトリページを開き、**「Compare & pull reques
 
 ## 原稿の生成確認方法
 
-前提：Node.jsが入っていること、適切なフォントがある事
+前提：Node.jsが入っていること、適切なフォントがある事<br>
 プロジェクトを丸ごとクローンしたディレクトリで以下打鍵ください
 
 ```
@@ -75,15 +75,15 @@ GitHubの自身のリポジトリページを開き、**「Compare & pull reques
 
 > npm run build
 ```
-2025jawsugbgnr.pdf が生成されると思います。
+2025jawsugbgnr.pdf が生成されると思います。<br>
 フォント動作がおかしい場合、フォントをリポジトリにUPしますのでご連絡ください。
 
 ## 問い合わせ先
 
-Twitter(X)： <a href="https://twitter.com/takano0131">X@takano0131</a>
-Mail:　akiko.ishihara0131@gmail.com　(個人)
-Slack(JAWS-UG)： 石原晶子(高野)[初心者支部]
+Twitter(X)： <a href="https://twitter.com/takano0131">X@takano0131</a><br>
+Mail:　akiko.ishihara0131@gmail.com　(個人)<br>
+Slack(JAWS-UG)： 石原晶子(高野)[初心者支部]<br>
 
 ## スペシャルサンクス
-Nao さん <a href="https://x.com/nananaonana7">https://x.com/nananaonana7</a>
+Nao さん <a href="https://x.com/nananaonana7">https://x.com/nananaonana7</a><br>
 朝会レポ文章をサンプルにお借りしました！
