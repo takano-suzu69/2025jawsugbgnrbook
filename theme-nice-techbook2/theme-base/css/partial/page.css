@@ -5,10 +5,10 @@
   --vs-page--marks: none;
   --vs-page--bleed: 0;
   --vs-page--color-bg: var(--vs-color-bg);
-  --vs-page--margin-top: 22mm;
-  --vs-page--margin-bottom: 22mm;
+  --vs-page--margin-top: 15mm;
+  --vs-page--margin-bottom: 20mm;
   --vs-page--margin-inner: 18mm;
-  --vs-page--margin-outer: 18mm;
+  --vs-page--margin-outer: 15mm;
   --vs-page--mbox-color-bg: transparent;
   --vs-page--mbox-color-body: inherit;
   --vs-page--mbox-content-top-left-corner: none;
