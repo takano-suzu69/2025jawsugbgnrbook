@@ -140,6 +140,14 @@ https://kiro.dev/downloads/
 
 画像 <a href="#figure1" data-ref="fig"></a> and テーブル <a href="#table1" data-ref="tbl"></a>.
 
+## 改行
+<hr class="page-wrap" />
+
+```
+<hr class="page-wrap" />
+```
+hr classで改行できます。
+
 ## 参考文献
 
 参考文献として FootNoteに出したいときその2[^test] の書き方はこうです。
