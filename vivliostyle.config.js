@@ -4,17 +4,17 @@ const isPrint = process.argv.includes("print.pdf");
 
 const def = {
   //デフォルト２分でタイムアウトしちゃうので、ローカルコンパイル対応のため追加
-  timeout: 300000,   // 5 分
-  
-  title: '2025jawsugbgnr', // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
-  author: '石原晶子(高野) <akiko.ishihara0131@gmail.com>', // default to `author` in `package.json` or undefined.
+  timeout: 300000, // 5 分
+
+  title: "2025jawsugbgnr", // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
+  author: "石原晶子(高野) <akiko.ishihara0131@gmail.com>", // default to `author` in `package.json` or undefined.
   language: "ja", // default to undefined.
-  size: "JIS-A5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
-  theme: [
-    "./theme-nice-techbook2",
-  ],
+  size: "A5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
+  theme: ["./theme-nice-techbook2"],
   entry: [
-    "chap-naosan-06jawsnasa.md"
+    "chap-markdownsample.md",
+    "chap-naosan-06jawsnasa.md",
+    "chap-tokyo-branch.md",
   ],
   entryContext: "./src",
 

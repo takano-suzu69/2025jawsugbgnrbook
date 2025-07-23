@@ -1,7 +1,7 @@
 :root {
   --vs-footnote--call-content: '*'
     counter(vs-counter-footnote, var(--vs-footnote--counter-style));
-  --vs-footnote--call-font-size: 0.8em;
+  --vs-footnote--call-font-size: 0.6em;
   --vs-footnote--call-margin-inline: 0;
   --vs-footnote--call-inset-block-start: var(--vs--sup-inset-block-start);
   --vs-footnote--counter-style: decimal;
