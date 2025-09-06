@@ -1,8 +1,8 @@
 ---
 class: chapter
 ---
-<img src="images/Sales/JAWS-UG Sales.png" />  
 # JAWS-UG Sales支部とは？
+<img src="images/Sales/JAWS-UG Sales.png" />  
 JAWS-UG Sales支部は、AWSクラウドに関わる**営業職やマーケター向け**の勉強会コミュニティです。  
 2018年9月に大阪で発足し、「**エンジニアじゃなくても楽しめるJAWS-UG**があってもいいんじゃないの？」という、ノリと発想から生まれました。  
 
