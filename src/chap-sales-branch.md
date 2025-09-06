@@ -1,7 +1,7 @@
 ---
 class: chapter
 ---
-
+<img src="images/Sales/JAWS-UG Sales.png" />
 # JAWS-UG Sales支部とは？
 JAWS-UG Sales支部は、AWSクラウドに関わる**営業職やマーケター向け**の勉強会コミュニティです。  
 2018年9月に大阪で発足し、「**エンジニアじゃなくても楽しめるJAWS-UG**があってもいいんじゃないの？」という、ノリと発想から生まれました。  
@@ -58,12 +58,14 @@ LT大会での小さな成功体験や、懇親会での出会いが、あなた
 
 #### Sales支部運営メンバー
 **ニシ サダオミ**  
+<img src="images/Sales/sadaomi-nishi.png" />  
 X：[https://x.com/sadabon444](url)  
 営業なのに、コミュニティとAWSを愛する変わり者。  
 2024年のJAWS DAYS参加をキッカケに、AWSにドップリとハマる。    
 無類の旅行好きで、JAWS-UG地方支部に行くことが最近の趣味。  
 
 **岡田 行司（オカダマン）**  
+<img src="images/Sales/okadaman.jpg" />  
 Facebook：[https://www.facebook.com/koji.okada2](url)  
 2024年のre:InventでJAWS-UG Salesのリブートを決意。  
 お仕事ではカスタマーサクセス（CS）組織を2022年に立ち上げた。  
