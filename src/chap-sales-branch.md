@@ -1,6 +1,7 @@
 -- 
 class: chapter
 ---
+
 # JAWS-UG Sales支部とは？
 <img src="images/Sales/JAWS-UG Sales.png" />  
 
