@@ -15,6 +15,7 @@ const def = {
     "chap-markdownsample.md",
     "chap-naosan-06jawsnasa.md",
     "chap-tokyo-branch.md",
+    "chap-sales-branch.md",
   ],
   entryContext: "./src",
 
