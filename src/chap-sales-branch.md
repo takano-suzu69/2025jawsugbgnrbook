@@ -63,16 +63,32 @@ Connpassのページ：[https://jawsug-sales.connpass.com/](url)
 ___
 
 #### Sales支部運営メンバー
-**ニシ サダオミ**  
-<img src="images/Sales/sadaomi-nishi.png" />  
-X：[https://x.com/sadabon444](url)  
-営業なのに、コミュニティとAWSを愛する変わり者。  
-2024年のJAWS DAYS参加をキッカケに、AWSにドップリとハマる。    
-無類の旅行好きで、JAWS-UG地方支部に行くことが最近の趣味。  
-
-**岡田 行司（オカダマン）**  
-<img src="images/Sales/okadaman.jpg" />  
-Facebook：[https://www.facebook.com/koji.okada2](url)  
-2024年のre:InventでJAWS-UG Salesのリブートを決意。  
-お仕事ではカスタマーサクセス（CS）組織を2022年に立ち上げた。  
-好きな業務はクレーム対応。  
+<div class="author-profile">
+<img src="images/Sales/sadaomi-nishi.png">
+    <div>
+        <div>
+            <b>ニシ サダオミ</b></br> 
+            X：<a href="https://x.com/sadabon444">
+https://x.com/sadabon444</a></br>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">  
+営業なのに、コミュニティとAWSを愛する変わり者。  <br>
+2024年のJAWS DAYS参加をキッカケに、AWSにドップリとハマる。 <br>   
+無類の旅行好きで、JAWS-UG地方支部に行くことが最近の趣味。 <br> 
+</p>
+<div class="author-profile">
+<img src="images/Sales/okadaman.jpg">
+    <div>
+        <div>
+            <b>岡田 行司（オカダマン）</b></br> 
+Facebook：<a href="https://www.facebook.com/koji.okada2">https://www.facebook.com/koji.okada2</a></br> 
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">  
+2024年のre:InventでJAWS-UG Salesのリブートを決意。  <br>
+お仕事ではカスタマーサクセス（CS）組織を2022年に立ち上げた。  <br>
+好きな業務はクレーム対応。 <br>
+</p>
