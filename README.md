@@ -11,12 +11,9 @@ https://sites.google.com/view/2025jawsbeginner/%E3%83%9B%E3%83%BC%E3%83%A0
 
 ## 参加方法 (非運営)
 
-事前に<a href="https://docs.google.com/forms/d/e/1FAIpQLSdkj6HzHG7zSJwMOupT5jGTbVawr593F5_VyA_hqalPZ6RJnA/viewform">参加フォーム </a>に記載の上、高野からの参加受付連絡後プルリクを上げてください。
+参加フォーム申請を撤廃しました。
+直接プルリクを上げて頂いてOKです。<br>
 
-現在の参加申請状況は以下のスプレッドシート参照です。
-https://docs.google.com/spreadsheets/d/1aRxcpFZoZdXHyTOnQmVsUmhl7eolGyTiaV_g57Vk2pQ/edit?usp=sharing
-
-もし参加フォーム申請後、都合が悪くなり書けなくなった場合には問い合わせ先までご連絡ください。
 
 ## 原稿の書き方
 
