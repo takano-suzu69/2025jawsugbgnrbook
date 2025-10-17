@@ -82,7 +82,6 @@ AWS Community Hero, AWS Samurai, 2025 Japan AWS Top Engineer & All Certs, Qiita 
 新卒として合同会社DMM.comに入社しCTO室でクラウドの活用方針・普及・技術支援など全般を携わらせて頂きました。その後、フリーランスとしてクラウドのスポットでの開発・技術支援・技術顧問などのお手伝いをやらせていただいています。2025 AWS Community Builder (Container)
 </p>
 
-
 <div class="author-profile">
     <img src="images/tokyo/murigitte.jpg" width="60%">
     <div>
@@ -94,4 +93,17 @@ AWS Community Hero, AWS Samurai, 2025 Japan AWS Top Engineer & All Certs, Qiita 
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 パブリックセクターから金融機関、製造業まで様々な業界のお客様に向けたシステム提案・導入をしています。<br />
 最近はCDK、コンテナ、データ基盤がメイン。趣味はBlackbeltを聞きながら筋トレです。
+</p>
+
+<div class="author-profile">
+    <img src="images/tokyo/fukuchi.jpg" width="60%">
+    <div>
+        <div>
+            <b>ふくち @har1101mony</b></br>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+LLMを触って遊んだり、LLMを組み込んだシステムの開発をしています。<br />
+AWS Community Builder(AI Engineering) / 2025 Japan AWS Jr.Champion
 </p>
