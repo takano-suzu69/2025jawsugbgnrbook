@@ -16,6 +16,7 @@ const def = {
     "chap-naosan-06jawsnasa.md",
     "chap-tokyo-branch.md",
     "chap-sales-branch.md",
+    "chap-cli-branch.md",
   ],
   entryContext: "./src",
 
