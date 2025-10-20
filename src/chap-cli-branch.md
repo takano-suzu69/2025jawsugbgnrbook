@@ -60,9 +60,9 @@ CLI専門支部からのクラウド転職者は、あのブログの会社が�
         <div>
             <b>波田野 裕一 ( tcsh )</b></br> 
             X: <a href="https://x.com/tcsh">https://x.com/tcsh</a></br> 
-            AWS Hero: <a href="https://builder.aws.com/community/@hatano</a></br> 
-            AWS Samurai 2017: <a href="https://aws.amazon.com/jp/blogs/news/aws-samurai-2017/</a></br> 
-            AWS Samurai 2020: <a href="https://note.com/s_numaguchi/n/nc9861bb097bd</a></br> 
+            AWS Hero: <a href="https://builder.aws.com/community/@hatano">Builder Center</a></br>
+            AWS Samurai 2017: <a href="https://aws.amazon.com/jp/blogs/news/aws-samurai-2017/">blogs</a></br> 
+            AWS Samurai 2020: <a href="https://note.com/s_numaguchi/n/nc9861bb097bd/">blogs</a></br> 
             所属支部: <a href="https://jawsug-cli.connpass.com/">JAWS-UG CLI専門支部</a> / <a href="https://jawsug-arch.connpass.com/">JAWS-UG アーキテクチャ専門支部</a> / <a href="https://jawsug-asa.connpass.com/">JAWS-UG 朝会</a>
         </div>
     </div>
