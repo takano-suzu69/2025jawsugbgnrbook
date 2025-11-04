@@ -28,7 +28,7 @@ AWS初心者から習熟者まで、**誰もが楽しく**参加できる支部�
 
 ### ロゴの説明
 
-<img src="images/SainokuniSaitama/JAWS-UG_SainokniSaitama.png" />
+<img src="images/SainokuniSaitama/JAWS-UG_SainokniSaitama.png" width="20%" />
 
  - 鮫色：彩(=いろどり) を色彩で表現しました。
  - 背景：埼玉県形を芝桜 (秩父:羊山公園)で彩りました。
@@ -81,7 +81,7 @@ AWSの勉強はもちろんのこと、埼玉県の良さを体験して楽し�
 ---
 
 <div class="author-profile">
-    <img src="images/amarelo.png">
+    <img src="images/amarelo.png" width="15%" >
     <div>
         <div>
             <b>アマレロ </b>
@@ -94,6 +94,6 @@ AWSの勉強はもちろんのこと、埼玉県の良さを体験して楽し�
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 JAWS-UG彩の国埼玉支部運営の一人です。ITエンジニアをやっていますが、コーヒーが大好きで珈琲豆を焙煎をしています。<br>
-いつか、彩の国埼玉支部の勉強会や、JAWS Days 、 JAWS Festa で、私が焙煎したコーヒーを皆さんに飲んでいただきながら、<br>
-AWSの議論ができる場を提供できるよう、AWS学習と珈琲豆焙煎に日々力を入れています。
+いつか、私が焙煎したコーヒーを皆さんに飲んでいただきながら、AWSの議論ができる場を提供できるよう、<br>
+AWS学習と珈琲豆焙煎に日々力を入れています。
 </p>
