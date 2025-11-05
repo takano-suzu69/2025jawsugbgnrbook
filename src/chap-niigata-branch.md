@@ -45,10 +45,14 @@ AWSのコンテナサービスや生成AIサービスのハンズオン、re:Inv
 ---
 
 <div class="author-profile">
-    <img src="images/Niigata/kasacchiful.png" width="60%">
+    <img src="images/Niigata/kasacchiful.jpg" width="60%">
     <div>
         <div>
-            <b>Hiroshi Kasahara @kasacchiful</b></br>
+            <b>Hiroshi Kasahara</b></br> 
+            X：<a href="https://x.com/kasacchiful">
+https://x.com/kasacchiful</a></br>
+            github：<a href="https://github.com/kasacchiful">
+https://github.com/kasacchiful</a></br>
         </div>
     </div>
 </div>
@@ -57,10 +61,16 @@ AWSのコンテナサービスや生成AIサービスのハンズオン、re:Inv
 </p>
 
 <div class="author-profile">
-    <img src="images/Niigata/yakumo.png" width="60%">
+    <img src="images/Niigata/yakumo.jpg" width="60%">
     <div>
         <div>
-            <b>やくも yakumo_0905</b></br>
+            <b>やくも</b></br> 
+            X：<a href="https://x.com/yakumo_0905">
+https://x.com/yakumo_0905</a></br>
+            github：<a href="https://github.com/shinnosukeyakumo">
+https://github.com/shinnosukeyakumo</a></br>
+            Qiita：<a href="https://qiita.com/yakumo_09">
+https://qiita.com/yakumo_09</a></br>
         </div>
     </div>
 </div>
@@ -73,16 +83,22 @@ Jr .Championの先輩の背中を追いかけていたら自分もAWS沼にど�
     <img src="images/Niigata/kam1nchu.png" width="60%">
     <div>
         <div>
-            <b>カフェイン未摂取 @kam1nchu</b></br>
+            <b>カフェイン未摂取</b></br> 
+            X：<a href="https://x.com/kam1nchu">
+https://x.com/kam1nchu</a></br>
+            github：<a href="https://github.com/kaminchu">
+https://github.com/kaminchu</a></br>
         </div>
     </div>
 </div>
+<p></p>
 
 <div class="author-profile">
     <img src="images/Niigata/sakapun.png" width="60%">
     <div>
         <div>
-            <b>sakapun @sakapun</b></br>
+            <b>sakapun</b></br>X：<a href="https://x.com/sakapun">
+https://x.com/sakapun</a></br>
         </div>
     </div>
 </div>
