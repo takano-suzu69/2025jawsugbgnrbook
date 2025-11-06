@@ -21,6 +21,7 @@ const def = {
     "chap-de&i-tarekatsureport.md",
     "chap-sh_fk2-yokohama_report.md", 
     "chap-storage-takano.md", 
+    "chap-mobengineer-edujaws.md", 
   ],
   entryContext: "./src",
 

@@ -42,7 +42,7 @@ Education-JAWSの特性上、EdTech・学内教育事例に関するテーマの
     <div>
         <div>
             <b>奥田 雅基（モブエンジニア）</b></br>
-            X：<a href="https://twitter.com/mob_engineer">@mob_engineer</a></br>
+            X：<a href="https://x.com/mob_engineer">@mob_engineer</a></br>
             Qiita：<a href="https://qiita.com/mob_engineer">https://qiita.com/mob_engineer</a> </br>
             所属：<a href="https://jawsug-sainokuni-saitama.connpass.com/">JAWS-UG彩の国埼玉支部</a>
         </div>
