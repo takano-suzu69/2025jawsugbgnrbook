@@ -2,7 +2,7 @@
 class: chapter
 ---
 
-# 実践的なTipsが盛りだくさん！？ JAWS-UG CDK支部のすすめ
+# 実践的なTipsが盛りだくさん！ JAWS-UG CDK支部のすすめ
 
 <div class="flush-right">
 アキキー │ 池田 晃尚(@akikii__)
@@ -10,7 +10,7 @@ class: chapter
 
 AWS CDKを初めて扱ったとき、その設計思想に感銘を受けた一方で、少し使いづらさも感じていました。\
 AWS CDKの専門支部「JAWS-UG CDK支部」に参加し、たくさんの開発に役立つTipsや仕組みを学んだことで、よりAWS CDKの魅力に惹かれるようになりました。\
-そんなAWS CDKを盛り上がるイベントを数多く行なっているCDK支部について紹介させていただきます！
+そんなAWS CDKを盛り上げるイベントを数多く開催しているCDK支部について紹介させていただきます！
 
 JAWS-UG CDK支部のConnpassページ：https://jawsug-cdk.connpass.com/
 
@@ -25,7 +25,7 @@ IaC(Infrastructure as Code)とは、サーバーやネットワークなどのIT
 AWS CDKでは、AWSサービスの設定をTypeScriptやPythonなどのプログラミング言語で定義します。\
 プログラミング言語の恩恵を受けることで、より柔軟・効率的にAWSサービスを構築できます。
 
-AWS CDKはAWSが管理しているプロジェクトですが、OSSであることも特徴の一つです。\
+AWS CDKはAWSが管理しているプロジェクトですが、OSSであることも特徴のひとつです。\
 ソースコードが公開されていて[^gh_repo]、誰でも機能追加のリクエストや機能の実装ができます。
 
 [^gh_repo]: AWS CDK GitHubリポジトリ：https://github.com/aws/aws-cdk
@@ -34,11 +34,11 @@ AWS CDKはAWSが管理しているプロジェクトですが、OSSであるこ�
 
 ### LT会
 
-AWS CDKに関する事なら何でもOKなLT会を開催していることが多いです。 \
+AWS CDKに関することなら何でもOKなLT会を開催していることが多いです。 \
 例えば、AWS CDKのTipsや初めて使ってみた感想、OSS活動などのトピックが話されています。
 
 LT会はテーマを設けて開催されることもあります。 \
-AWS CDKはAWSサービスの特定の技術分野によらないサービスなので、過去のテーマでは生成AI[^genai]やマネジメントコンソールとの比較[^console]、はたまた別のJAWS-UG支部であるOps-JAWSともコラボした実績[^opsjaws]もあります。
+AWS CDKはAWSの特定の技術分野によらないサービスなので、過去のテーマでは生成AI[^genai]やマネジメントコンソールとの比較[^console]、はたまた別のJAWS-UG支部であるOps-JAWSともコラボした実績[^opsjaws]もあります。
 
 [^genai]: JAWS-UG CDK支部 #15 生成AI祭り：https://jawsug-cdk.connpass.com/event/324263/
 [^console]: JAWS-UG CDK支部 #20 マネコン支部!? VS CDK支部：https://jawsug-cdk.connpass.com/event/348953/
@@ -46,10 +46,10 @@ AWS CDKはAWSサービスの特定の技術分野によらないサービスな�
 
 ### AWS CDK Conferenceについて
 
-AWS CDKのカンファレンスであるAWS CDK Conference(以下、CDK conf)が2022年から毎年開催されています。 \
+AWS CDKのカンファレンスであるAWS CDK Conference(以下、CDK Conf)が2022年から毎年開催されています。 \
 AWS CDKに情熱を捧げるスピーカーによる最新動向やベストプラクティスを共有するセッションが次から次へと繰り広げられます。
 
-2025年のCDK Confでは他にも様々なサブイベントがあり、どれも賑わっていました。
+2025年のCDK Confでは他にもさまざまなサブイベントがあり、どれも賑わっていました。
 
 - 初心者ワークショップ
 - CDKコントリビュートワークショップ
@@ -61,13 +61,13 @@ AWS CDKに情熱を捧げるスピーカーによる最新動向やベストプ�
 [^amplify]: Amplifyワークショップ ：https://jawsug-cdk.connpass.com/event/356363/
 [^vibe]: CDK Vibe Coding Fes!!：https://jawsug-cdk.connpass.com/event/356357/
 
-実は、AWS CDK関連の年次カンファレンスで毎年続いてるのは世界を見ても日本のCDK Confだけです。\
+実は、AWS CDK関連の年次カンファレンスで毎年続いているのは世界を見ても日本のCDK Confだけです。\
 世界一熱狂的！？なAWS CDKのイベントと言っても過言ではないのでしょうか？？
 
 ## おすすめLT/セッション
 
 これまでCDK支部では、たくさんのLTやセッションが繰り広げられてきました。\
-その中でも、CDK支部を見たことない方にもおすすめしたいものをピックアップしてみました！ \
+その中でも、CDK支部に参加したことがない方にもおすすめしたいものをピックアップしました！ \
 
 AWS CDK 入門ガイド - これだけは知っておきたいヒント集 (@anan_kikuchi) \
 https://speakerdeck.com/anank/aws-cdk-introduction \
@@ -75,7 +75,7 @@ CDKを使った開発に必要な知識が網羅できます！次に読むべ�
 
 保守性を高める AWS CDK のセオリー・ベストプラクティス (@ren_yamanashi) \
 https://speakerdeck.com/yamanashi_ren01/bao-shou-xing-wogao-meru-aws-cdk-noseoribesutopurakuteisu \
-CDKを長く使うと困ってくる保守性のベストプラクティスがまとまっています！仕組みを知らないと思いつかないようなプラクティスがたくさんあリます。
+CDKを長く使うと困ってくる保守性を高めるベストプラクティスがまとまっています！仕組みを知らないと思いつかないようなプラクティスがたくさんあります。
 
 AIエージェントが書くのなら直接CloudFormationを書かせればいいじゃないですか何故AWS CDKを使う必要があるのさ (@_watany) \
 https://speakerdeck.com/watany/do-we-need-cdk2 \
@@ -83,13 +83,13 @@ AIコーディング時代にAWS CDKを扱うことのメリットや、AIでCDK
 
 AWS CDKの仕組み (@365_step_tech) \
 https://speakerdeck.com/gotok365/how-aws-cdk-works \
-CDKが動いている仕組みを実装の詳細まで潜り込んで解説されています！CDKにDeep Diveしたい人は必見です。
+CDKが動いている仕組みを実装の詳細まで踏み込んで解説されています！CDKにDeep Diveしたい人は必見です。
 
 ## 最後に
 
 僕はCDK支部に参加して、自分では思い付かないような実用的なTipsにたくさん出会えました。\
 AWS CDKはどなたにでも扉を開いています。\
-みなさんもJAWS-UG CDK支部に参加して、AWS CDKへ入門・実用的なTipsを持ち帰る・自分の中に眠っているTipsを放流してみませんか？\
+みなさんもJAWS-UG CDK支部に参加して、AWS CDKに入門・実用的なTipsを持ち帰る・自分の中に眠っているTipsを放流してみませんか？\
 共にAWS CDKを盛り上げていきましょう！
 
 #### 著者紹介
