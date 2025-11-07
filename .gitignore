@@ -1,2 +1,4 @@
+.DS_Store
+src/.DS_Store
 .vivliostyle/*
 node_modules/*
