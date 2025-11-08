@@ -20,6 +20,7 @@ const def = {
     "chap-systemsadmin-branch.md",
     "chap-niigata-branch.md",
     "chap-gov-branch.md",
+    "chap-network-branch.md",
     "chap-de&i-tarekatsureport.md",
     "chap-sh_fk2-yokohama_report.md", 
     "chap-storage-takano.md", 

@@ -48,7 +48,7 @@ NW-JAWSは専門支部ながら、AWS×ネットワークの初心者だけで�
 ---
 
 <div class="author-profile">
-    <img src="images/whitebird_sp.jpg" width="60%">
+    <img src="images/Network/whitebird_sp.jpg" width="60%">
     <div>
         <div>
             <b>白鳥 翔太 @whitebird_sp（NTT東日本：AWS Ambassador/ネクストモード）</b></br>
@@ -64,7 +64,7 @@ NW-JAWSは専門支部ながら、AWS×ネットワークの初心者だけで�
 好きな言葉は「Knowledge is power.」「Insist on the highest standards.」「Any sufficiently advanced technology is indistinguishable from magic.」
 </p>
 <div class="author-profile">
-    <img src="images/yuki_ink.png" width="60%">
+    <img src="images/Network/yuki_ink.png" width="60%">
     <div>
         <div>
             <b>矢儀 丈博 @yuki_ink（TIS株式会社）</b></br>
@@ -75,7 +75,7 @@ NW-JAWSは専門支部ながら、AWS×ネットワークの初心者だけで�
 TIS株式会社に2020年に新卒入社。金融業界のお客様のインフラを担当しています。2023 AWS Jr. Champions / 2024-2025 Japan AWS Top Engineers (Services) / 2024-2025 Japan AWS All Certifications Engineers
 </p>
 <div class="author-profile">
-    <img src="images/hibiki.jpg" width="60%">
+    <img src="images/Network/hibiki.jpg" width="60%">
     <div>
         <div>
             <b>Hibiki @gravitas122</b></br>
@@ -86,7 +86,7 @@ TIS株式会社に2020年に新卒入社。金融業界のお客様のインフ�
 SIerに2023年新卒入社。マルチアカウント、NW、IaCが好きです。2025 Japan AWS Jr. Champions/ 2025 Japan All AWS Certifications Engineers
 </p>
 <div class="author-profile">
-    <img src="images/takumi.jpg" width="60%">
+    <img src="images/Network/takumi.jpg" width="60%">
     <div>
         <div>
             <b>Takumi Sato</b></br>
