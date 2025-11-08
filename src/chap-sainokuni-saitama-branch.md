@@ -57,9 +57,9 @@ AWS初心者から習熟者まで、**誰もが楽しく**参加できる支部�
 
 [^1]: 与野公園　公式サイト　https://yono-park.com/
 
-[^2]: https://visitsaitamacity.jp/events/13
+[^2]: ばらまつり2025　https://visitsaitamacity.jp/events/13
 
-[^3]: https://jawsug-sainokuni-saitama.connpass.com/event/354656/
+[^3]: イベントページ　https://jawsug-sainokuni-saitama.connpass.com/event/354656/
 
 会場の与野公園は明治10年に開設され、バラ園は昭和52年（1977年）に開園された歴史のある場所で、
 約200種類、約3,000株近くのバラが咲き誇っています。
@@ -68,16 +68,16 @@ AWS初心者から習熟者まで、**誰もが楽しく**参加できる支部�
 お昼は、与野公園から徒歩5分くらいの場所にあるうどん屋「武蔵野うどん松」[^4]で武蔵野うどんを食べました。
 埼玉の武蔵野うどんはコシがあって食べ応えがありとても美味しいので、お近くに来た方は食べてみてください！
 
-[^4]: https://tabelog.com/saitama/A1101/A110101/11061921/
+[^4]: 武蔵野うどん松　https://tabelog.com/saitama/A1101/A110101/11061921/
 
 #### 理化学研究所和光地区一般公開 現地ツアー
 
 毎年、和光市にある理化学研究所[^5]が一般公開されます。
 第４回のイベント[^6]は、この理化学研究所和光地区一般公開に合わせて開催されました。
 
-[^5]: https://www.riken.jp/
+[^5]: 理化学研究所　https://www.riken.jp/
 
-[^6]: https://jawsug-sainokuni-saitama.connpass.com/event/371504/
+[^6]: イベントページ　https://jawsug-sainokuni-saitama.connpass.com/event/371504/
 
 超伝導リングサイクロトロン、富岳の展示、HOKUSAIなど、我々ITエンジニアにも身近な展示を見学することができました。
 説明をしてくれる研究者・技術者に質問できて技術に携わる人同士の対話を楽しめること、
