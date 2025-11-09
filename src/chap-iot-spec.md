@@ -10,7 +10,7 @@ class: chapter
 
 ## IoT専門支部って？
 
-![](./images/IoT/image.png)
+<img src="images/IoT/image.png" width="35%"/>
 
 IoT専門支部は、その名の通りIoT関連の話題を専門に扱うJAWS-UGの支部です。では「IoT」って何でしょうか？
 
@@ -55,6 +55,7 @@ IoT専門支部では、地方支部や他の技術専門支部とのコラボ�
 ---
 
 <div class="author-profile">
+    <img src="images/IoT/image.png" width="60%">
     <div>
         <div>
             <b>立石　彰 ( TATEISHI, Akira )</b></br> 
