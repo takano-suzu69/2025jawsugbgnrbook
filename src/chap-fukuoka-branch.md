@@ -9,7 +9,7 @@ class: chapter
 
 JAWS-UG福岡は、AWS User Group - Japan(JAWS-UG)の地方支部の1つで、福岡県を中心に活動しています。
 
-![](./images/fukuoka/jawsug_fukuoka.png)
+<img src="images/fukuoka/jawsug_fukuoka.png" width="50%"/>
 
 ## 支部の特徴
 
