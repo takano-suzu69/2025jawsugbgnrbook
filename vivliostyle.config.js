@@ -26,6 +26,7 @@ const def = {
     "chap-sainokuni-saitama-branch.md",
     "chap-saga-branch.md",
     "chap-cloudgirls-branch.md",
+    "chap-edu-jaws-branch.md",
     "chap-de&i-tarekatsureport.md",
     "chap-sh_fk2-yokohama_report.md", 
     "chap-storage-takano.md", 
