@@ -12,8 +12,7 @@ const def = {
   size: "A5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
   theme: ["./theme-nice-techbook2"],
   entry: [
-//    "chap-markdownsample.md",
-//    "chap-naosan-06jawsnasa.md",
+    "sample/chap-markdownsample.md",
     "chap-tokyo-branch.md",
     "chap-sales-branch.md",
     "chap-cli-branch.md",
@@ -35,6 +34,8 @@ const def = {
     "chap-inori_jawsugbgnr.md",
     "chap-amixedcolor-festa-and-days.md",
     "chap-e-jaws.md",
+
+  //    "chap-naosan-06jawsnasa.md",
   ],
   entryContext: "./src",
 

@@ -1,3 +1,7 @@
+---
+class: chapter
+---
+
 # Education-JAWSの紹介
 
 <image src=images/edu-jaws/edu-jaws.jpg>
