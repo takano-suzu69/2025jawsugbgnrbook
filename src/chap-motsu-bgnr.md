@@ -2,7 +2,7 @@
 class: chapter
 ---
 
-# 始めての人でもそうでない人にも来てほしい初心者支部をすすめたい
+# はじめての人でもそうでない人にも来てほしい初心者支部をすすめたい
 
 <div class="flush-right">
 山本淳博(もつ)
@@ -15,153 +15,18 @@ class: chapter
 
 ## JAWS−UGへの参加・・・はちょっと怖かった
 XとかでAWSについて発信している人を見ると強強なエンジニアばかりでした。「この人たちはどうやって勉強しているんだろう」「どうやってこういう人と話す機会ができるだろうか」と悩んでいた頃、初心者支部というなんとも参加しやすそうな支部のイベントを見つけました。
+当時からテックイベントにはある程度参加していましたが、参加したことのない分野（今回だとAWS関係のイベントや勉強会は全くなかったです）だとどこから行くのがいいのかわからないことも多く、明確に「初心者ウェルカム」とうたってくれてると心理的ハードルが下がります。
 
+## LTのハードルも個人的には低め、アウトプットするにはまさにうってつけ
+よく「アウトプットしないのは知的な便秘」とJAWS−UGの勉強会では聞きますが、じゃあどうしようとなるわけでして。Xとかブログをある程度していると「次は何でもいいから表にたって話してみたい」となると思います（なりますよね？）。時々初心者支部のLTが「喋りたいことを喋る会」「初心者をターゲットにしたLT会」という「こんな内容でも話していいのかな」といった心理的な壁を下げるようなこともやっています。慣れてくれば登壇することや応募することにも抵抗がなくなってきますし、もし見つけたら迷わずに申し込みをしてほしいです。話す内容は申し込んでから無理やりひねり出せます（締め切りを決めてしまわないとやらない自分はこの方法をよく使います。）。
 
 ## JAWS−UGの懇親会は絶対に参加してほしい
-会社の懇親会とはちがい、ここにいるのは何かしらAWSが好きな人。
+会社の懇親会とはちがい、ここにいるのは何かしらAWSが好きな人。技術的なことを語り合うことができますし、全然関係ない趣味についても当然ざっくばらんに話すことができます。
+登壇者へ質問するハードルも懇親会であれば結構さがりますし、「実はあの裏では...」みたいに発表では言えなかったことを聞くことが出来ます。
+終電よりも早めに帰れますし、オフラインの勉強会にせっかく来たのだから参加してほしいなーというのが運営をやってた人の気持ちです。
 
 ## 将来的には他の支部へ
-初心者はいずれ卒業していくもので、登壇に慣れてきたり自分なりにやりたいことが出来てくると他の支部へも参加していくようになります。そんな手助けをしていくのも初心者支部ですし、初心者を卒業したから来てはいけないというわけではないです。
-
-
-
-_斜体_ / **太字** / **_車体太字_** /
-`インラインコード` / ~~取り消し線~~ /
-<big>でっかい文字</big> / <small>小さい文字</small> /
-H<sub>2</sub>O / x<sup>2</sup> / {Ruby|ルビー} /
-[Inline link](https://vivliostyle.org) / [Block link]
-$E = mc^2$
-
-- 見出し
-  
-H1 は文中で使わないようにしてください。
-
-## Heading 2 {#section2}
-
-### Heading 3 {#section3}
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
----
-
-## リスト
-
-- 第一
-- 第一
-- 第一
-  - 第二
-  - 第二
-    - 第三
-
-1. ほげ
-2. ほげほげ
-3. ふが
-4. ふがふが
-5. にゃんこ
-
-<dl>
-  <dt>段落htmlタグ</dt>
-  <dd>
-    なんかTipsみたいに書きたいときに使おう
-  </dd>
-</dl>
-
-## 引用や文献や概要
-
-> echo "Kiro"
-> echo "Kiro waitlist…"
-> echo "zenzinrui Kiro de asonderu iina 20250715"
-
-## コードブロック
-
-```
-https://kiro.dev/downloads/
-```
-
-## 図
-
-![Takano Logo](./images/takano0131.jpg){#figure1}
-
-## テーブル
-
-<figure id="table1">
-<figcaption>Markdown table</figcaption>
-<div>
-
-| aaa                           |                          bbb |
-| :---------------------------- | ---------------------------: |
-| loooooooooooooooooooooooooong | taaaaaaaaaaaaaaaaaaaaaaaable |
-
-</div>
-</figure>
-
-<figure id="table2">
-<figcaption>HTML complex table</figcaption>
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="3">Quarterly Earnings</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">Q1</td>
-      <td>Net Income</td>
-      <td>$50,000</td>
-    </tr>
-    <tr>
-      <td>Total Revenue</td>
-      <td>$100,000</td>
-    </tr>
-    <tr>
-      <td rowspan="2">Q2</td>
-      <td>Net Income</td>
-      <td>$60,000</td>
-    </tr>
-    <tr>
-      <td>Total Revenue</td>
-      <td>$110,000</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td colspan="2">Total Earnings</td>
-      <td>$110,000</td>
-    </tr>
-  </tfoot>
-</table>
-</figure>
-
-## 脚注に出したいとき
-
-となりに小さい数字が出ます
-<span class="footnote">ちょっとこうすると技術書っぽいですよね.</span>
-<span class="footnote">うん.</span>
-
-## 章節項を自動で数字を出したいとき
-
-章番号 <a href="#section1" data-ref="sec"></a>, 節番号 <a href="#section2" data-ref="sec"></a> and 項番号 <a href="#section3" data-ref="sec"></a>.
-
-## 図番号 自動で数字を出したいとき
-
-画像 <a href="#figure1" data-ref="fig"></a> and テーブル <a href="#table1" data-ref="tbl"></a>.
-
-## 改行
-<hr class="page-wrap" />
-
-```
-<hr class="page-wrap" />
-```
-hr classで改行できます。
-
-## 参考文献
-
-参考文献として FootNoteに出したいときその2[^test] の書き方はこうです。
+初心者はいずれ卒業していくもので、登壇に慣れてきたり自分なりにやりたいことが出来てくると他の支部へも参加していくようになります。そんな手助けをしていくのも初心者支部ですし、初心者を卒業したから来てはいけないというわけではないです。むしろ初心者をどうやって卒業したのか、これからどんなことをしていくのかを語りにきてほしいなと思ってます。
 
 [^test]: やっぱりこうすると技術書っぽいですよね.
 
@@ -174,18 +39,17 @@ hr classで改行できます。
 ---
 
 <div class="author-profile">
-    <img src="images/takano0131.jpg">
+    <img src="images/motsu.jpg">
     <div>
         <div>
-            <b>山本淳博(もつ)</b>
-            <a href="https://twitter.com/ad_motsu">X@ad_motsu</a>
-        </div>
-        <div>
-            AWSといろんなサービスを連携してって便利にしてくのが好き。最近アウトプット復活気味ですが、アニメの聖地から行うことがしばしば。キーボードは分割トラックボール付派。
+            <b>山本淳博(もつ)</br>
+            <a href="https://twitter.com/ad_motsu">X@ad_motsu</a></br>
+            <a href="https://motsu-log.hatenablog.com/">Blog</a></br>
+            <a href="https://speakerdeck.com/ad_motsu">speakerdeck.com</a></br>
         </div>
     </div>
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 ServiceNowとAWSが好きで、今は監視がお仕事のインフラSREです。<br>
-アニメの聖地巡礼をまわってまとめるのが好き。自作キーボードにのめりこんでから欲しいキーボードが段々増えていってます。競馬の研究していてアウトプットが少なめなの最近の悩み。
+趣味の自作キーボードは分割トラックボール付派。週末は馬を追いかけています。
 </p>
