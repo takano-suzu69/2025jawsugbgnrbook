@@ -12,7 +12,7 @@ const def = {
   size: "A5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
   theme: ["./theme-nice-techbook2"],
   entry: [
-    "sample/chap-markdownsample.md",
+    "chap-first.md",
     "chap-tokyo-branch.md",
     "chap-sales-branch.md",
     "chap-cli-branch.md",
@@ -26,6 +26,8 @@ const def = {
     "chap-saga-branch.md",
     "chap-cloudgirls-branch.md",
     "chap-edu-jaws-branch.md",
+    "chap-motsu-bgnr.md",
+    "chap-tochigi.md",
     "chap-de&i-tarekatsureport.md",
     "chap-sh_fk2-yokohama_report.md", 
     "chap-storage-takano.md", 

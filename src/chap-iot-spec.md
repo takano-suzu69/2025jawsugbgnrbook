@@ -10,7 +10,7 @@ class: chapter
 
 ## IoT専門支部って？
 
-<img src="images/IoT/image.png" width="35%"/>
+<img src="./images/IoT/image.png" width="35%"/>
 
 IoT専門支部は、その名の通りIoT関連の話題を専門に扱うJAWS-UGの支部です。では「IoT」って何でしょうか？
 

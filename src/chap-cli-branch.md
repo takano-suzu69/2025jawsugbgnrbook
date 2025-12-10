@@ -55,7 +55,7 @@ CLI専門支部からのクラウド転職者は、あのブログの会社が�
 ---
 
 <div class="author-profile">
-    <img src="images/naosan.jpg" width="60%">
+    <img src="images/hatano-bohebohe.png" width="60%">
     <div>
         <div>
             <b>波田野 裕一 ( tcsh )</b></br> 

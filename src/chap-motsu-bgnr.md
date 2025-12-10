@@ -37,10 +37,10 @@ XとかでAWSについて発信している人を見ると強強なエンジニ�
 ---
 
 <div class="author-profile">
-    <img src="images/motsu.JPG">
+    <img src="./images/motsu.jpg">
     <div>
         <div>
-            <b>山本淳博(もつ)</br>
+            <b>山本淳博(もつ)</b>
             <a href="https://twitter.com/ad_motsu">X@ad_motsu</a></br>
             <a href="https://motsu-log.hatenablog.com/">Blog</a></br>
             <a href="https://speakerdeck.com/ad_motsu">speakerdeck.com</a></br>
