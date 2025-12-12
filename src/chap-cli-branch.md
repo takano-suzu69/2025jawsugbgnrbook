@@ -28,7 +28,7 @@ AWS CLIは、AWSサービスの本体とも言えるAWS APIを直接操作する
 個人的には、本番環境での作成(Create)、変更(Update)、削除(Delete)は、CLIやSDKなどのAPIベースでやるべきであり、「本番環境でGUI(マネコン)を使ってもいいのは中学生まで」というフレーズをよく使っていたりします。
 (今どきの高校生は、カード1枚あれば、がちでクラウド使えますからね...)
 
-![GUIは中学生までかな](./images/hatano-bohebohe.png){#figure1}
+![GUIは中学生までかな (画: ぼへぼへさん)](./images/hatano-bohebohe.png){#figure1}
 
 
 ## CLIでのAPI知識は転職によく効く (通称「JAWS-UG 転職支部」
@@ -55,7 +55,7 @@ CLI専門支部からのクラウド転職者は、あのブログの会社が�
 ---
 
 <div class="author-profile">
-    <img src="images/hatano-bohebohe.png" width="60%">
+    <img src="images/hatano-bohebohe.png" width="60%" alt="画像 (作: ぼへぼへさん)">
     <div>
         <div>
             <b>波田野 裕一 ( tcsh )</b></br> 
