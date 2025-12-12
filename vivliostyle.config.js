@@ -28,6 +28,7 @@ const def = {
     "chap-edu-jaws-branch.md",
     "chap-motsu-bgnr.md",
     "chap-tochigi.md",
+    "chap-jaws-ug-asa.md",
     "chap-de&i-tarekatsureport.md",
     "chap-sh_fk2-yokohama_report.md", 
     "chap-storage-takano.md", 
