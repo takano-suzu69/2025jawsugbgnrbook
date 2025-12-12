@@ -14,19 +14,13 @@ JAWS-UGを知ったのは、活発なユーザーグループをマーケティ�
 
 当時はSIerで新しいソリューションを広めるためのオウンドメディアの編集長兼メインライターとSNSの運用をやっていました(事情によりメディアは残っていません)。2年担当した後、データセンター運用と業務改善を担当していました。
 
-https://qiita.com/beajourneyman/items/cba703c5cea4f1c088a0
-
 運用の仕事はとても大事ですが、何か新しいチャレンジをしたいと思うようになり、一念発起してCLFを取得しました。オンライン勉強会で、今はすっかり「AWS Jr.Champions」の顔になった高橋ゆっきーさんが解説されていた入門のスライドが大きな後押しになりました。マーケティング始点で知ったAWSの認定を取る日が来るとは…。
 
 https://yoshidashingo.com/entry/2022/12/04/213746
 
 吉田真吾さんのブログをきっかけに自らのダメさを身をもって知りたくなり、AWS Summit 2023 で GameDay に参加しました。技術そのものに対する解像度が一気に上がる目の覚める体験でした。
 
-https://qiita.com/beajourneyman/items/3034a0059c6e23d3d069
-
 大した技術力もないので、思いだけで GameDay をテーマに「[JAWS Festa 2023 in KYUSHU](https://jft2023.jaws-ug.jp/)」で初登壇しました。その翌年の「[JAWS DAYS 2024](https://jawsdays2024.jaws-ug.jp/)」では、どうしても採択されたく、4本のCfPを出して、何とか登壇できました。
-
-https://qiita.com/beajourneyman/items/a02346efa34c24d21516
 
 2023年度が"真にJAWS-UGに参加する"初年度だった、とふりかえって思いました。
 
@@ -68,7 +62,7 @@ https://www.docswell.com/s/8916250/KN92GE-20251004_DevRelKKaigi2025_jawsug_tochi
 - connpassメンバー 0→152名 ※2025/12/04現在
 - ストックされた資料 70本
 
-<img src="./images/tochigi.png" width="80%"/> 
+<img src="./images/tochigi.png" width="100%"/> 
 
 立ち上げ回の集合写真です。初年度から奇数月にオフライン、毎月オンラインもくもく会を開催すると決めて、しっかり走り切れました。ただ、大きな課題として、運営メンバーが3名しかいないので、台所は非常に厳しいです。栃木にゆかりがあるお知り合いを紹介いただけると、とても嬉しいです。
 
@@ -81,7 +75,7 @@ https://www.docswell.com/s/8916250/KN92GE-20251004_DevRelKKaigi2025_jawsug_tochi
 ---
 
 <div class="author-profile">
-    <img src="./images/none.jpg" width="50%">
+    <img src="./images/sns_icon.jpg" width="50%">
     <div>
         <div>
             <b>Journeyman(ジャニ) </b>
