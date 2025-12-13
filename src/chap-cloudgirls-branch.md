@@ -94,10 +94,45 @@ AWSを学ぶことのできるカードゲームであるAWS BuilderCardsのVers
     <img src="images\nagisa_gomi.png">
     <div>
         <div>
-            <b>五味なぎさ(nagisa_53)</b></br> 
+            <b>五味なぎさ(@nagisa_53)</b></br> 
             X: <a href="https://x.com/nagisa_53">https://x.com/nagisa_53</a></br> 
             所属支部: <a href="https://jawsug-cloudgirl.connpass.com/">JAWS-UG クラウド女子会</a> / <a href="https://jawsug-sainokuni-saitama.connpass.com/">彩の国埼玉支部</a></br> 
             APN所属SIer勤務のクラウドアーキテクト兼マネージャー。元々ネットワーク系のSEだったため、AWSのネットワーク系サービスが大好物。AWS Ambassadors、AWS Community Buildersとして活動するなど、公私ともにAWSと深く関わる日々を送っています。
+        </div>
+    </div>
+</div>
+
+#### 著者以外の現在のコア運営メンバ
+
+---
+<div class="author-profile">
+    <div>
+        <div>
+            <b>小寺 加奈子(@KanakoKode16)</b>
+            &ensp;X: <a href="https://x.com/KanakoKode16">https://x.com/KanakoKode16</a></br> 
+        </div>
+    </div>
+</div>
+<div class="author-profile">
+    <div>
+        <div>
+            <b>長濱 志歩</b>
+        </div>
+    </div>
+</div>
+<div class="author-profile">
+    <div>
+        <div>
+            <b>妹尾 歩美(@senooayumi)</b>
+            &ensp;X: <a href="https://x.com/senooayumi">https://x.com/senooayumi</a></br> 
+        </div>
+    </div>
+</div>
+<div class="author-profile">
+    <div>
+        <div>
+            <b>砂岡雪(白"雪姫”)</b>
+            &ensp;X: <a href="https://x.com/yuri_snowwhite">https://x.com/yuri_snowwhite</a></br> 
         </div>
     </div>
 </div>
